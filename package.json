@@ -1,0 +1,14 @@
+{
+  "name": "@_4am/promiseA+",
+  "version": "1.0.0",
+  "description": "MIT License",
+  "main": "promise.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
